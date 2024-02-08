@@ -1,0 +1,22 @@
+{
+  "name": "com.arparec.strata",
+  "version": "1.0.0",
+  "displayName": "Strata Engine",
+  "description": "The official Strata Engine SDK.",
+  "unity": "2021.3",
+  "unityRelease": "29f1",
+  "dependencies": { },
+ "keywords": [
+    "strata",
+    "engine",
+    "arparec",
+    "recroom",
+    "physics",
+    "custom"
+ ],
+  "author": {
+    "name": "ArpaRec",
+    "email": "wienerwolf77@gmail.com",
+    "url": "https://arparec.dev"
+  }
+}
